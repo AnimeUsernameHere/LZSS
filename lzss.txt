@@ -1,4 +1,4 @@
-class Lz
+class lzss
 {
     public class shif
     {
